@@ -1,0 +1,50 @@
+Ejercicio #3
+Futbolista	
+Inciso A:
+•	Mete Goles
+•	Sabe hacer pases
+•	Tiene buena condición física
+•	Juega en un equipo
+•	Ha ganado un Campeonato
+•	Es alto 
+•	Usa zapatos especiales
+•	Juega en equipo
+Inciso B: 
+•	No sabe hacer hoyitos
+•	No sabe atajar goles
+•	Siempre falla goles
+•	Alega mucho
+•	No hace dieta
+•	Falla Pases
+
+Inciso C:
+1-	El futbolista no tiene buena condición física
+a.	Proposiciones usadas: negación
+b.	Valor resultante: falso
+2-	El futbolista ha ganado un campeonato y sabe hacer hoyitos
+a.	Proposiciones usadas: conjunción
+b.	Valor resultante: verdadero
+3-	El futbolista tendrá buena condición física si y solo si hace dieta
+a.	Proposiciones usadas: Doble implicación
+b.	Valor resultante: falso
+4-	El futbolista sabe atajar goles o alega mucho
+a.	Proposiciones usadas: disyunción
+b.	Valor resultante: verdadero
+5-	El futbolista juega en un equipo y sabe dar pases
+a.	Proposiciones usadas: conjunción
+b.	Valor resultante: verdadero
+6-	El futbolista no es alto
+a.	Proposiciones usadas: negación
+b.	Valor resultante: falso
+7-	Si el futbolista mete goles entonces ganará campeonatos
+a.	Proposiciones usadas: implicación
+b.	Valor resultante: verdadero
+8-	El futbolista siempre falla goles y alega mucho
+a.	Proposiciones usadas: conjunción
+b.	Valor resultante: verdadero 
+9-	El futbolista juega en equipo o mete goles 
+a.	Proposiciones usadas: disyunción
+b.	Valor resultante: verdadero
+10-	El futbolista no usa zapatos especiales
+a.	Proposiciones usadas: negación
+b.	Valor resultante: falso
